@@ -1,0 +1,6 @@
+# list files to ignore in separate lines
+secretPasswords.txt
+log.txt
+
+# log files (all files with .log filetyp are ignored)
+*.log
